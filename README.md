@@ -46,7 +46,3 @@ Análise de churn, devoluções e sinais de atenção operacional.
 ## 6. Como acessar
 
 Baixe o arquivo `.pbix` disponível na pasta `/dashboard` e abra no Power BI Desktop.
-
-## 7. Observação sobre os dados
-
-Os dados utilizados neste projeto devem ser fictícios, públicos ou anonimizados.
