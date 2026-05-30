@@ -45,7 +45,7 @@ Análise de churn, devoluções e sinais de atenção operacional.
 
 ## 6. Prévia
 
-![Preview do dashboard](assets/peformance_de_venda.png/comportamento_do_cliente.png/comportamento_de_risco.png)
+![Preview do dashboard](assets/peformance_de_venda.png.png)
 
 ## 7. Como acessar
 
