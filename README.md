@@ -43,14 +43,10 @@ Análise de churn, devoluções e sinais de atenção operacional.
 - DAX
 - Visualização de dados
 
-## 6. Prévia
-
-![Preview do dashboard](assets/peformance_de_venda.png.png)
-
-## 7. Como acessar
+## 6. Como acessar
 
 Baixe o arquivo `.pbix` disponível na pasta `/dashboard` e abra no Power BI Desktop.
 
-## 8. Observação sobre os dados
+## 7. Observação sobre os dados
 
 Os dados utilizados neste projeto devem ser fictícios, públicos ou anonimizados.
